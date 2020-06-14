@@ -32,6 +32,10 @@ For Building Portfolio we selected top 10  low L2-norm stocks +  Top X high L2-n
 Why? To balance the trade-off between risk and return as low L2-norm stocks are less risky so less return and high L2-norm stocks are more risky so more return
 
 To reduce the effect of communal and non-communal information from both type of stocks on portfolio return and risk 
+
+How to run Code:-
+
+Download Data and run the BTP python file
  
  
 
